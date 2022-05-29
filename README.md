@@ -1,2 +1,2 @@
 # Testing_cases
-Examples of test cases done to different website
+Examples of test cases done to a website
